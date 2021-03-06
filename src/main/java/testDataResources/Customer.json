@@ -1,0 +1,47 @@
+[
+  {
+    "firstName": "Leanne",
+    "lastName": "Graham",
+    "password": "leanne12345",
+    "emailAddress": "Sincere@april.biz",
+    "company": "Bruteforce Solution",
+    "address": {
+      "streetAddress": "Kulas Light",
+      "suiteAddress": "Apt. 556",
+      "city": "Jamaica",
+      "state": "New York",
+      "postCode": "11435",
+      "country": "United States"
+    },
+
+    "phone": {
+      "home": "9296638556",
+      "mob": "9296638576"
+    },
+    "website": "hildegard.org"
+
+  },
+
+  {
+    "firstName": "Peter",
+    "lastName": "Tommy",
+    "password": "peter12345",
+    "emailAddress": "petertom@gmail.com",
+    "company": "Bruteforce Solution",
+    "address": {
+      "streetAddress": "11 Susan Terrace",
+      "suiteAddress": "Apt. 556",
+      "city": "Jamaica",
+      "state": "New York",
+      "postCode": "11435",
+      "country": "United States"
+    },
+
+    "phone": {
+      "home": "1-929-663-8556",
+      "mob": "1-929-663-8576"
+    },
+    "website": "hildegard.org"
+
+  }
+]
